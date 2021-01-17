@@ -4,5 +4,6 @@ public class Application {
         System.out.println("Alexey has started to learn Java.");
         System.out.println("hello");
         System.out.println("3rd commit");
+        System.out.println("bug fix");
     }
 }
